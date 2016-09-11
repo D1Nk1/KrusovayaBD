@@ -1,0 +1,10 @@
+C:\Users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\bin\Release\KrusovayaBD.exe.config
+C:\Users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\bin\Release\KrusovayaBD.exe
+C:\Users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\bin\Release\KrusovayaBD.pdb
+C:\Users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Release\KrusovayaBD.Login.resources
+C:\Users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Release\KrusovayaBD.Main.resources
+C:\Users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Release\KrusovayaBD.Orders.resources
+C:\Users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Release\KrusovayaBD.Properties.Resources.resources
+C:\Users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Release\KrusovayaBD.csproj.GenerateResource.Cache
+C:\Users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Release\KrusovayaBD.exe
+C:\Users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Release\KrusovayaBD.pdb

@@ -1,0 +1,58 @@
+c:\users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.exe.config
+c:\users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.exe
+c:\users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.pdb
+c:\users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.csprojResolveAssemblyReference.cache
+c:\users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Login.resources
+c:\users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Main.resources
+c:\users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Properties.Resources.resources
+c:\users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.csproj.GenerateResource.Cache
+c:\users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.exe
+c:\users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.pdb
+C:\Users\but3n\documents\visual studio 2013\Projects\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Orders.resources
+C:\Users\Игорь Корякин\Desktop\KrusovayaBD\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.exe.config
+C:\Users\Игорь Корякин\Desktop\KrusovayaBD\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.exe
+C:\Users\Игорь Корякин\Desktop\KrusovayaBD\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.pdb
+C:\Users\Игорь Корякин\Desktop\KrusovayaBD\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.exe
+C:\Users\Игорь Корякин\Desktop\KrusovayaBD\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.pdb
+C:\Users\Игорь Корякин\Desktop\KrusovayaBD\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.csprojResolveAssemblyReference.cache
+C:\Users\Игорь Корякин\Desktop\KrusovayaBD\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Login.resources
+C:\Users\Игорь Корякин\Desktop\KrusovayaBD\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Main.resources
+C:\Users\Игорь Корякин\Desktop\KrusovayaBD\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Orders.resources
+C:\Users\Игорь Корякин\Desktop\KrusovayaBD\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Properties.Resources.resources
+C:\Users\Игорь Корякин\Desktop\KrusovayaBD\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.exe.config
+C:\Users\Igor\Desktop\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.exe
+C:\Users\Igor\Desktop\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.pdb
+C:\Users\Igor\Desktop\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.exe
+C:\Users\Igor\Desktop\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.pdb
+C:\Users\Igor\Desktop\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Login.resources
+C:\Users\Igor\Desktop\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Main.resources
+C:\Users\Igor\Desktop\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Orders.resources
+C:\Users\Igor\Desktop\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Properties.Resources.resources
+C:\Users\Igor\Desktop\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.csproj.GenerateResource.Cache
+C:\Users\Igor Koryakin\Desktop\KursovayaBD\Проект\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.exe.config
+C:\Users\Igor Koryakin\Desktop\KursovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.exe
+C:\Users\Igor Koryakin\Desktop\KursovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.pdb
+C:\Users\Igor Koryakin\Desktop\KursovayaBD\Проект\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.exe
+C:\Users\Igor Koryakin\Desktop\KursovayaBD\Проект\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.pdb
+C:\Users\Igor Koryakin\Desktop\KursovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.csprojResolveAssemblyReference.cache
+C:\Users\Igor Koryakin\Desktop\KursovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Login.resources
+C:\Users\Igor Koryakin\Desktop\KursovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Main.resources
+C:\Users\Igor Koryakin\Desktop\KursovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Orders.resources
+C:\Users\Igor Koryakin\Desktop\KursovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Properties.Resources.resources
+C:\Users\Igor Koryakin\Desktop\KursovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\Проект\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.exe.config
+C:\Users\Igor\Desktop\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.exe
+C:\Users\Igor\Desktop\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.pdb
+C:\Users\Igor\Desktop\Проект\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.exe
+C:\Users\Igor\Desktop\Проект\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.pdb
+C:\Users\Igor\Desktop\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Login.resources
+C:\Users\Igor\Desktop\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Main.resources
+C:\Users\Igor\Desktop\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Orders.resources
+C:\Users\Igor\Desktop\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.Properties.Resources.resources
+C:\Users\Igor\Desktop\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\Университет\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\bin\Debug\KrusovayaBD.exe.config
+C:\Users\Igor\Desktop\Университет\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.exe
+C:\Users\Igor\Desktop\Университет\KrusovayaBD\Проект\KrusovayaBD\KrusovayaBD\obj\Debug\KrusovayaBD.pdb
